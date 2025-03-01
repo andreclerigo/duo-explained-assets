@@ -1,2 +1,2 @@
-# duolingo-chatgpt-assets
-This repository hosts assets needed by the duolingo-chatgpt
+# duo-explained-assets
+This repository hosts assets needed by the duo-explained
